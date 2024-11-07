@@ -11,7 +11,7 @@
     "grunt-lib-contrib": "~0.3.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.0",
+    "grunt": "~1.5.3",
     "grunt-contrib-stylus": "~0.12.0",
     "grunt-contrib-coffee": "~0.8.0",
     "grunt-contrib-watch": "~0.5.3",
